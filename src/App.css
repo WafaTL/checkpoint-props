@@ -29,3 +29,30 @@ body{
     background-image: url("/public/img2.jpg");
     background-repeat: no-repeat;
     background-size: cover;}
+    .profileList{
+    margin: auto;
+    width: 50%;
+    padding: 10px;}
+    .card{
+        width: 18rem;
+        border: 3px solid mediumpurple;
+        box-shadow: 10px 5px 5px #bf8c8c;
+    }
+    .card h5{
+    color: #b91dade0;
+    font-family: cursive;
+    font-size: 24px;
+    }
+    body p{
+    font-size: large;
+    font-weight: 500;
+    }
+    a{
+        color: #893038;;
+    }
+    .list-group-item{
+        color: #b541b1
+    }
+
+    
+    

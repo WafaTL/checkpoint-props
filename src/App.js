@@ -1,7 +1,7 @@
 import Profile from './profile/Profile';
 import './App.css';
 import Header from './layout/Header';
-import img from './profile/image1.jpg';
+import img from './profile/img.jpg';
 
 
 function App() {
